@@ -107,7 +107,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 *Preprint on arXiv & Under review*
 
-🌐 [Website](http://lab.malab.cn/soft/SBSM-Pro/) <span class="show_paper_citations" data="RcaUHs4AAAAJ:SpbQ_efOBbkC" id="SpbQ_efOBbkC">0</span>
+🌐 [Website](http://lab.malab.cn/soft/SBSM-Pro/) <span class="show_paper_citations" data="RcaUHs4AAAAJ:SpbQ_efOBbkC">0</span>
 
   </div>
 </div>
