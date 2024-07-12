@@ -31,9 +31,10 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 - Biological interactions prediction (生物关联预测)
 - Multiple sequence alignment (多序列比对)
 - Deep learning (深度学习)
+- Large Language Model（大语言模型）
 
 # 🔥 News
-- *2024.05.30*: I have completed the Ph.D. interview 👨‍🎓 at UESTC and am about to become a Ph.D. student! 🎉🎉
+- *2024.07.12*: I have received the admission notice for the Ph.D. program 👨‍🎓 at the UESTC and am preparing to become a Ph.D. candidate! 🎉🎉
 - *2024.03.17*: The new personal homepage 🌐 has been released.🎉🎉
 
 # 📝 Projects
@@ -95,7 +96,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 <!-- Start Projects -->
 <div class='paper-box'>
   <div class='paper-box-image'>
-      <div class="badge">Under Review</div>
+      <div class="badge">Minor Revision</div>
       <img src='images/SBSMPRO.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -105,7 +106,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 **Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\*
 
-*Preprint on arXiv & Under review*
+*Preprint on arXiv & Minor Revision*
 
 🌐 [Website](http://lab.malab.cn/soft/SBSM-Pro/)
 
@@ -140,13 +141,13 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 - *2022.06*: Outstanding graduates of Hebei Province (河北省优秀毕业生), Hebei Provincial Department of Education (河北省教育厅).
 
 # 📖 Educations
-- *2023.07 - (now)*: Postgraduate, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; 
-- *2022.09 - (now)*: Postgraduate, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
+- *2023.07 - ( now )*: Postgraduate, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; 
+- *2022.09 - ( now )*: Postgraduate, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
 - *2018.09 - 2022.06*: Undergraduate, [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院). &nbsp;<img src='./images/ysu.jpg' style='height: 1.5em;'>&nbsp;
 - *2015.09 - 2018.06*: High school student, [Hebei Zhengding Senior High School](http://www.zhengzhong.cn/home.html), [East Campus](http://dongxiaoqu.zhengzhong.cn/) (河北正定中学，东校区). &nbsp;<img src='./images/zz.jpg' style='height: 1.5em;'>&nbsp;
 
 <br>
 <div align="center">
-Last updated: Jun, 30, 2024
+Last updated: 2024.07.12
 </div>
 <br>
