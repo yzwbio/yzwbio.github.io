@@ -34,8 +34,8 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 - Large Language Model（大语言模型）
 
 # 🔥 News
-- *2024.07.12*: I have received the admission notice for the Ph.D. program 👨‍🎓 at the UESTC and am preparing to become a Ph.D. candidate! 🎉🎉
-- *2024.03.17*: The new personal homepage 🌐 has been released.🎉🎉
+- *2024.07.12*: I have received the admission notice for the Ph.D. program 👨‍🎓 at the UESTC! 🎉🎉
+- *2024.03.17*: My new personal homepage 🌐 has been released.🎉🎉
 
 # 📝 Projects
 
