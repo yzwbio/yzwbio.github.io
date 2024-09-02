@@ -21,9 +21,9 @@ Hello! 🙋🏼 I am Yizheng Wang (王一争). I am a Ph.D. candidate at the UES
 
 I obtained my bachelor's degree 🎓 in Computer Science and Technology from the &nbsp;<img src='./images/ysu.jpg' style='height: 1.5em;'>&nbsp; [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院).
 
-Following my undergraduate studies, I completed my master’s degree 🎓 at the &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), where I specialized in Computer Science and Technology. 
+I completed my master’s study 🎓 at the &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), where I specialized in Computer Science and Technology. 
 
-Currently, I am pursuing my Ph.D. degree 🎓 at the &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), majoring in Computer Science and Technology. I am also part of a joint training program at the &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院).
+Currently, I am pursuing my Ph.D. degree 🎓 at the &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), majoring in Computer Science and Technology. I am also part of a joint training program (联合培养) at the &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院).
 
 I am conducting scientific research at the [Malab](http://123.57.240.48/forum.php?mod=viewthread&tid=8672) laboratory 🔬 and supervised by [Prof. Dr. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My main research areas are bioinformatics 🧬 and machine learning 🤖, and some of my work has already been published in SCI journals. <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -33,7 +33,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 - Biological interactions prediction (生物关联预测)
 - Multiple sequence alignment (多序列比对)
 - Deep learning (深度学习)
-- Large Language Model（大语言模型）
+- Large Language Model (大语言模型)
 
 # 🔥 News
 - *2024.09.01*: I officially became a Ph.D. candidate at the UESTC! 
@@ -144,8 +144,8 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 - *2022.06*: Outstanding graduates of Hebei Province (河北省优秀毕业生), Hebei Provincial Department of Education (河北省教育厅).
 
 # 📖 Educations
-- *2024.09 - (now)*: Ph.D. candidata, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
-- *2023.07 - (now)*: Ph.D. candidata, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; 
+- *2024.09 - (now)*: Ph.D. candidate, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
+- *2023.07 - (now)*: Ph.D. candidate, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; 
 - *2022.09 - 2024.06*: Master, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
 - *2018.09 - 2022.06*: Bachelor, [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院). &nbsp;<img src='./images/ysu.jpg' style='height: 1.5em;'>&nbsp;
 - *2015.09 - 2018.06*: High school student, [Hebei Zhengding Senior High School](http://www.zhengzhong.cn/home.html), [East Campus](http://dongxiaoqu.zhengzhong.cn/) (河北正定中学，东校区). &nbsp;<img src='./images/zz.jpg' style='height: 1.5em;'>&nbsp;
