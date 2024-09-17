@@ -147,7 +147,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 6️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm)
 
 **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*
-
+<img src='./images/fbl.jpg' style='height: 1.5em;'>
 *Frontiers in Bioscience-Landmark, Q2, IF2021=4.009*
 
   </div>
