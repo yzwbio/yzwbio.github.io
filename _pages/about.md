@@ -148,7 +148,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*
 
-<img src='./images/fbl.jpg' style='height: 1.5em;'> *Frontiers in Bioscience-Landmark, Q2, IF2021=4.009*
+<img src='./images/fbl.jpg' style='height: 1em;'> *Frontiers in Bioscience-Landmark, Q2, IF2021=4.009*
 
   </div>
 </div>
