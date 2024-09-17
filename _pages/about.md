@@ -140,10 +140,6 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 - 6️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. *Frontiers in Bioscience-Landmark, Q2, IF2021=4.009*
 
-<br>
-## Collaborative projects
-<br>
-
 - 7️⃣ [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), Yixiao Zhai, Jiannan Chao, **Yizheng Wang**, Pinglu Zhang, Furong Tang\*, Quan Zou\*. *PLOS Computational Biology, Q1, IF2024=3.800*
 
 - 8️⃣ [Application of Artificial Intelligence in Drug-Target Interactions Prediction: A Review](#), Qian Liao, ..., **Yizheng Wang**, Yijie Ding\*, Quan Zou\*, Ke Han\*. *npj Biomedical Innovations*
@@ -161,6 +157,6 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 <br>
 <div align="center">
-Last updated: 2024.09.12
+Last updated: 2024.09.17
 </div>
 <br>
