@@ -104,7 +104,6 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
   </div>
   <div class='paper-box-text' markdown="1">
 
-
 4️⃣ [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
 
 **Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\*
@@ -126,7 +125,6 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
   </div>
   <div class='paper-box-text' markdown="1">
 
-
 5️⃣ [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
 
 **Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\*
@@ -138,7 +136,24 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 <!-- End Projects -->
 
 
-- 6️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. *Frontiers in Bioscience-Landmark, Q2, IF2021=4.009*
+<!-- Start Projects -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+      <div class="badge">Q2</div>
+      <img src='images/et.jpg' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+6️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm)
+
+**Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*
+
+*Frontiers in Bioscience-Landmark, Q2, IF2021=4.009*
+
+  </div>
+</div>
+<!-- End Projects -->
+
 
 - 7️⃣ [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), Yixiao Zhai, Jiannan Chao, **Yizheng Wang**, Pinglu Zhang, Furong Tang\*, Quan Zou\*. *PLOS Computational Biology, Q1, IF2024=3.800*
 
