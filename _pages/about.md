@@ -53,7 +53,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 1️⃣ [SBNN: Support Bio-sequence Neural Network](#)
 
-**Yizheng Wang**, Yijie Ding\*, Quan Zou\*
+***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
   </div>
 </div>
@@ -70,7 +70,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 2️⃣ [DeepKernelSBSM: A High-Accuracy Explicit Deep Kernel Function Construction Method Based on Triplet Network](#)
 
-**Yizheng Wang**, Yijie Ding\*, Quan Zou\*
+***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
   </div>
 </div>
@@ -87,7 +87,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 3️⃣ [SSM: Support Subsequence Machine](#)
 
-**Yizheng Wang**, Yijie Ding\*, Quan Zou\*
+***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
 🌐 [Website](http://lab.malab.cn/soft/SSM/)
 
@@ -106,7 +106,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 4️⃣ [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
 
-**Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\*
+***Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\**
 
 *Preprint on arXiv & Minor Revision*
 
@@ -127,7 +127,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 5️⃣ [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
 
-**Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\*
+***Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\**
 
 *Frontiers of Computer Science, Q1, IF2022=4.200*
 
@@ -146,7 +146,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
     
 6️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm)
 
-**Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*
+***Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\**
 
 *Frontiers in Bioscience-Landmark, Q2, IF2021=4.009*
 
@@ -155,7 +155,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 <!-- End Projects -->
 
 
-- 7️⃣ [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), Yixiao Zhai, Jiannan Chao, **Yizheng Wang**, Pinglu Zhang, Furong Tang\*, Quan Zou\*. *PLOS Computational Biology, Q1, IF2024=3.800*
+- 7️⃣ [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), *Yixiao Zhai, Jiannan Chao, **Yizheng Wang**, Pinglu Zhang, Furong Tang\*, Quan Zou\*. PLOS Computational Biology, Q1, IF2024=3.800*
 
 - 8️⃣ [Application of Artificial Intelligence in Drug-Target Interactions Prediction: A Review](#), Qian Liao, ..., **Yizheng Wang**, Yijie Ding\*, Quan Zou\*, Ke Han\*. *npj Biomedical Innovations*
 
@@ -172,6 +172,6 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 <br>
 <div align="center">
-Last updated: 2024.09.17
+Last updated: 2024.09.26
 </div>
 <br>
