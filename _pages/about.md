@@ -130,7 +130,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 ***Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\**
 
-*Frontiers of Computer Science, Q1, CCF B, IF2022=4.200*
+*Frontiers of Computer Science, CCF B, Q1, IF2022=4.200*
 
   </div>
 </div>
