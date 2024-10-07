@@ -109,7 +109,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 ***Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\**
 
-*SCIENCE CHINA Information Sciences, CCF A, Q1, IF2024=8.7*
+*SCIENCE CHINA Information Sciences, CCF A, Q1, IF2024=7.300*
 
 🌐 [Website](http://lab.malab.cn/soft/SBSM-Pro/)
 
