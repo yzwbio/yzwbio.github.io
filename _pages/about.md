@@ -36,6 +36,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 - Large Language Model (大语言模型)
 
 # 🔥 News
+- *2024.10.07*: My new paper was accepted by the CCF A journal SCIS! 📑🎉
 - *2024.09.01*: I officially became a Ph.D. candidate at the UESTC! 
 - *2024.07.12*: I received the admission letter for a Ph.D. program 👨‍🎓 from the UESTC!
 - *2024.03.17*: My new personal homepage 🌐 was released.🎉🎉
@@ -99,7 +100,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 <!-- Start Projects -->
 <div class='paper-box'>
   <div class='paper-box-image'>
-      <div class="badge">Minor Revision</div>
+      <div class="badge_red">CCF A</div>
       <img src='images/SBSMPRO.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -108,7 +109,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 ***Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\**
 
-*Preprint on arXiv & Minor Revision*
+*SCIENCE CHINA Information Sciences, CCF A, Q1, IF2024=8.7*
 
 🌐 [Website](http://lab.malab.cn/soft/SBSM-Pro/)
 
@@ -129,7 +130,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 ***Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\**
 
-*Frontiers of Computer Science, Q1, IF2022=4.200*
+*Frontiers of Computer Science, Q1, CCF B, IF2022=4.200*
 
   </div>
 </div>
@@ -172,6 +173,6 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 <br>
 <div align="center">
-Last updated: 2024.09.26
+Last updated: 2024.10.07
 </div>
 <br>
