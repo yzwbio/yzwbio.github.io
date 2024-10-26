@@ -105,7 +105,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
   </div>
   <div class='paper-box-text' markdown="1">
 
-4️⃣ [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
+4️⃣ [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4171-9)
 
 ***Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\**
 
