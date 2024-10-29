@@ -54,7 +54,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 1️⃣ [SBNN: Support Bio-sequence Neural Network](#)
 
-***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
+***Yizheng Wang**, Yanming Wei, Yijie Ding\*, Quan Zou\**
 
   </div>
 </div>
