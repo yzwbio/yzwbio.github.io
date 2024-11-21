@@ -36,9 +36,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 - Large Language Model (大语言模型)
 
 # 🔥 News
-- *2024.10.07*: My new paper was accepted by the CCF A journal SCIS! 📑🎉
-- *2024.09.01*: I officially became a Ph.D. candidate at the UESTC! 
-- *2024.07.12*: I received the admission letter for a Ph.D. program 👨‍🎓 from the UESTC!
+- *2024.10.07*: My new paper was accepted by the CCF A journal *SCIENCE CHINA Information Sciences*! 📑🎉
 - *2024.03.17*: My new personal homepage 🌐 was released.🎉🎉
 
 # 📝 Projects
