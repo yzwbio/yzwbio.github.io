@@ -29,6 +29,8 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 # 📒 Research Interest
 - Support bio-sequence machine (支持生物序列机)
+- Support bio-sequence neural network (支持生物序列神经网络)
+- Phylogenetic tree construction (进化树构建)
 - Biological sequence classification (生物序列分类)
 - Biological interactions prediction (生物关联预测)
 - Multiple sequence alignment (多序列比对)
