@@ -31,7 +31,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 - Support bio-sequence machine (支持生物序列机)
 - Support bio-sequence neural network (支持生物序列神经网络)
 - Phylogenetic tree construction (进化树构建)
-- Biological sequence classification (生物序列分类)
+- Biological sequence analysis (生物序列分析)
 - Biological interactions prediction (生物关联预测)
 - Multiple sequence alignment (多序列比对)
 - Deep learning (深度学习)
@@ -173,6 +173,6 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 <br>
 <div align="center">
-Last updated: 2024.11.21
+Last updated: 2024.12.12
 </div>
 <br>
