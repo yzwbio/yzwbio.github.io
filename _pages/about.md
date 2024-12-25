@@ -158,7 +158,9 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 - 7️⃣ [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), *Yixiao Zhai, Jiannan Chao, **Yizheng Wang**, Pinglu Zhang, Furong Tang\*, Quan Zou\*. PLOS Computational Biology, Q1, IF2024=3.800*
 
-- 8️⃣ [Application of Artificial Intelligence in Drug-Target Interactions Prediction: A Review](#), *Qian Liao, ..., **Yizheng Wang**, Yijie Ding\*, Quan Zou\*, Ke Han\*. npj Biomedical Innovations*
+- 8️⃣ [A survey on multi-view fusion for predicting links in biomedical bipartite networks: Methods and applications](https://www.sciencedirect.com/science/article/pii/S1566253524006729), *Yuqing Qian, **Yizheng Wang**, Junkai Liu, Quan Zou\*, Yijie Ding\*. Information Fusion, Q1, IF2024=14.700*
+
+- 9️⃣ [Application of Artificial Intelligence in Drug-Target Interactions Prediction: A Review](#), *Qian Liao, ..., **Yizheng Wang**, Yijie Ding\*, Quan Zou\*, Ke Han\*. npj Biomedical Innovations*
 
 
 # 🎖 Honors and Awards
@@ -173,6 +175,6 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 <br>
 <div align="center">
-Last updated: 2024.12.12
+Last updated: 2024.12.25
 </div>
 <br>
