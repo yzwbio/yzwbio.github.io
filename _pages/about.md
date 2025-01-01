@@ -27,7 +27,7 @@ I am part of a joint training program (联合培养) at the &nbsp;<img src='./im
 
 I am conducting scientific research at the [Malab](http://123.57.240.48/forum.php?mod=viewthread&tid=8672) laboratory 🔬 and supervised by [Prof. Dr. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My main research areas are bioinformatics 🧬 and machine learning 🤖, and some of my work has already been published in SCI journals. <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-# 📒 Research Interest
+# 📒 Research Interests
 - Support bio-sequence machine (支持生物序列机)
 - Support bio-sequence neural network (支持生物序列神经网络)
 - Phylogenetic tree construction (进化树构建)
@@ -42,9 +42,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 - *2024.03.17*: My new personal homepage 🌐 was released.🎉🎉
 
 # 📝 Projects
-
-
-<!-- Start Projects -->
+<!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">Write Manuscripts</div>
@@ -58,10 +56,11 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
   </div>
 </div>
-<!-- End Projects -->
+<!------------------------------------------------------------------------------>
 
 
-<!-- Start Projects -->
+
+<!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">Perform experiments</div>
@@ -75,10 +74,11 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
   </div>
 </div>
-<!-- End Projects -->
+<!------------------------------------------------------------------------------>
 
 
-<!-- Start Projects -->
+
+<!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">Perform experiments</div>
@@ -94,10 +94,11 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
   </div>
 </div>
-<!-- End Projects -->
+<!------------------------------------------------------------------------------>
 
 
-<!-- Start Projects -->
+
+<!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge_red">CCF A</div>
@@ -115,10 +116,11 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
   </div>
 </div>
-<!-- End Projects -->
+<!------------------------------------------------------------------------------>
 
 
-<!-- Start Projects -->
+
+<!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">CCF B</div>
@@ -134,10 +136,11 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
   </div>
 </div>
-<!-- End Projects -->
+<!------------------------------------------------------------------------------>
 
 
-<!-- Start Projects -->
+
+<!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">Q2</div>
@@ -153,7 +156,8 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
   </div>
 </div>
-<!-- End Projects -->
+<!------------------------------------------------------------------------------>
+
 
 
 - 7️⃣ [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), *Yixiao Zhai, Jiannan Chao, **Yizheng Wang**, Pinglu Zhang, Furong Tang\*, Quan Zou\*. PLOS Computational Biology, Q1, IF2024=3.800*
