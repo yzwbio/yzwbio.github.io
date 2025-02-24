@@ -169,7 +169,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
     
 7️⃣ [SeqAlignXGBoost: Sequence Alignment and Feature Selection for m1A Modification Site Identification](#)
 
-***Yizheng Wang**, Yijie Ding\**, Quan Zou\**
+***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
 *International Conference On Intelligent Computing(ICIC2025)*
 
