@@ -182,7 +182,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 - 9️⃣ [A survey on multi-view fusion for predicting links in biomedical bipartite networks: Methods and applications](https://www.sciencedirect.com/science/article/pii/S1566253524006729), *Yuqing Qian, **Yizheng Wang**, Junkai Liu, Quan Zou\*, Yijie Ding\*. Information Fusion, Q1, IF2024=14.700*
 
-- 🔟 [Application of Artificial Intelligence in Drug-Target Interactions Prediction: A Review](#), *Qian Liao, ..., **Yizheng Wang**, Yijie Ding\*, Quan Zou\*, Ke Han\*. npj Biomedical Innovations*
+- 🔟 [Application of Artificial Intelligence in Drug-Target Interactions Prediction: A Review](https://www.nature.com/articles/s44385-024-00003-9), *Qian Liao, ..., **Yizheng Wang**, Yijie Ding\*, Quan Zou\*, Ke Han\*. npj Biomedical Innovations*
 
 # 📜 Patents
 - *2024.09*: [A Method for Identifying Nucleic Acid Modification Sites Using Neural Network Models](https://kns.cnki.net/kcms2/article/abstract?v=nKttgsEmyDdvKnqK7nMRqcbvtmssxqRKxONEwbmOdjeswMKOeZJA59G98zWx_-G4JU1RD-b05NqmiB2fZGhlwOdYePn57GrRi3zDOXcFjzjzM60dKLjcNqZJlN7alnuOgjLx1TRlWy6CwqWs6DJ7-btwLqxSgf1-&uniplatform=NZKPT), (No.CN202410638063.3)
