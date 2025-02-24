@@ -190,7 +190,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 - *2023.11*: [A Construction Method for Biological Sequence Ensemble Classifiers and Methods for Predicting and Classifying Biological Sequences](https://kns.cnki.net/kcms2/article/abstract?v=nKttgsEmyDdjOSupczMlEd1nBML8PtsxBEEtVHtwQp1NZv1zV6vI0ljQe1JKDH9il2m2C22-dO7okF4bZtSZElAxrnJ_v6aE-SmI-fuozeqxYgjaTpHLyToebFgPMvNlX_318YIb5xstBQRmtgcPqcMsoK9WNL7X&uniplatform=NZKPT), (No.CN202310249336.0)
 - *2023.03*: [A Training Method and Model for Predicting microRNA-Disease Associations](https://kns.cnki.net/kcms2/article/abstract?v=nKttgsEmyDdqQOusYTSfMPYeJDlSNZVzZGP_XTdoV0F0oX12bKAYwtgSoVs7v28URi5in-1UPvFtxz4qzc5opJvxQS7PDx18j3EhjqzwrSTZz1pWIbDaZEO-F6fZjP5NTKgD7H9uXB9BaFGVSMHxEehqiakHXtVQ&uniplatform=NZKPT), (No.CN202211444626.2)
 
-# 🎖 Awards
+# 🎖 Awards and Funds
 - *2024.12*: CSC Scholarship for Study Abroad (公派留学奖学金), China Scholarship Council (国家留学基金管理委员会), *22,800 AUD$*.
 - *2022.06*: Outstanding graduates of Hebei Province (河北省优秀毕业生), Hebei Provincial Department of Education (河北省教育厅).
 
