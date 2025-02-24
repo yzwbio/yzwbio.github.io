@@ -163,7 +163,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">Under Review</div>
-      <img src='images/SeqAlignXGBoost.jpg' alt="sym" width="100%">
+      <img src='images/XGBoost.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
     
@@ -201,6 +201,6 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 <br>
 <div align="center">
-Last updated: 2025.01.01
+Last updated: 2025.02.24
 </div>
 <br>
