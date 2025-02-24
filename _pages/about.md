@@ -159,12 +159,30 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 <!------------------------------------------------------------------------------>
 
 
+<!------------------------------------------------------------------------------>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+      <div class="badge">Under Review</div>
+      <img src='images/SeqAlignXGBoost.jpg' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+7️⃣ [SeqAlignXGBoost: Sequence Alignment and Feature Selection for m1A Modification Site Identification](#)
 
-- 7️⃣ [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011988), *Yixiao Zhai, Jiannan Chao, **Yizheng Wang**, Pinglu Zhang, Furong Tang\*, Quan Zou\*. PLOS Computational Biology, Q1, IF2024=3.800*
+***Yizheng Wang**, Yijie Ding\**, Quan Zou\**
 
-- 8️⃣ [A survey on multi-view fusion for predicting links in biomedical bipartite networks: Methods and applications](https://www.sciencedirect.com/science/article/pii/S1566253524006729), *Yuqing Qian, **Yizheng Wang**, Junkai Liu, Quan Zou\*, Yijie Ding\*. Information Fusion, Q1, IF2024=14.700*
+*International Conference On Intelligent Computing(ICIC2025)*
 
-- 9️⃣ [Application of Artificial Intelligence in Drug-Target Interactions Prediction: A Review](#), *Qian Liao, ..., **Yizheng Wang**, Yijie Ding\*, Quan Zou\*, Ke Han\*. npj Biomedical Innovations*
+  </div>
+</div>
+<!------------------------------------------------------------------------------>
+
+
+- 8️⃣ [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011988), *Yixiao Zhai, Jiannan Chao, **Yizheng Wang**, Pinglu Zhang, Furong Tang\*, Quan Zou\*. PLOS Computational Biology, Q1, IF2024=3.800*
+
+- 9️⃣ [A survey on multi-view fusion for predicting links in biomedical bipartite networks: Methods and applications](https://www.sciencedirect.com/science/article/pii/S1566253524006729), *Yuqing Qian, **Yizheng Wang**, Junkai Liu, Quan Zou\*, Yijie Ding\*. Information Fusion, Q1, IF2024=14.700*
+
+- 🔟 [Application of Artificial Intelligence in Drug-Target Interactions Prediction: A Review](#), *Qian Liao, ..., **Yizheng Wang**, Yijie Ding\*, Quan Zou\*, Ke Han\*. npj Biomedical Innovations*
 
 # 📜 Patents
 - *2024.09*: [A Method for Identifying Nucleic Acid Modification Sites Using Neural Network Models](https://kns.cnki.net/kcms2/article/abstract?v=KrjhrmY9aOXwzcTFbmu4pBVqW6DPEI-3s0eeepmiORdD_xlRYRdokzlxTNhO6A9FPYNpzStZkcusZY1ym64QEuroqXVLrztg7MX3h489zCaYfn64r-40gZk78gu7tiLtTkaYemw2Lgkj9EgICsZle3GRTCIe1KCyAPZoNCKvEvM6srNDg93Sks1eezcWmaaY&uniplatform=NZKPT&language=CHS), (No.CN202410638063.3)
