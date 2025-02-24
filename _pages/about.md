@@ -171,7 +171,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 ***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
-*International Conference On Intelligent Computing(ICIC2025)*
+*International Conference On Intelligent Computing (ICIC2025)*
 
   </div>
 </div>
@@ -185,9 +185,9 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 - 🔟 [Application of Artificial Intelligence in Drug-Target Interactions Prediction: A Review](#), *Qian Liao, ..., **Yizheng Wang**, Yijie Ding\*, Quan Zou\*, Ke Han\*. npj Biomedical Innovations*
 
 # 📜 Patents
-- *2024.09*: [A Method for Identifying Nucleic Acid Modification Sites Using Neural Network Models](https://kns.cnki.net/kcms2/article/abstract?v=KrjhrmY9aOXwzcTFbmu4pBVqW6DPEI-3s0eeepmiORdD_xlRYRdokzlxTNhO6A9FPYNpzStZkcusZY1ym64QEuroqXVLrztg7MX3h489zCaYfn64r-40gZk78gu7tiLtTkaYemw2Lgkj9EgICsZle3GRTCIe1KCyAPZoNCKvEvM6srNDg93Sks1eezcWmaaY&uniplatform=NZKPT&language=CHS), (No.CN202410638063.3)
-- *2023.11*: [A Construction Method for Biological Sequence Ensemble Classifiers and Methods for Predicting and Classifying Biological Sequences](https://kns.cnki.net/kcms2/article/abstract?v=KrjhrmY9aOUfRhwquxl7HLs39eEG4HOWA7YU_hgl6VokYyKhmWAmnzYZ3Ea4G7SD7F_EjGYy2l4zHPrWwAIrk2sgCA2tIP-9_iVykNNvEQC1iwmqfsrlNgnOA8RIr-jBwhosolorFg4Xx9XiXZFUK4oFPWphlNbZipyKt_YBKiHiVInY_38iG5LMsAWILYeM&uniplatform=NZKPT&language=CHS), (No.CN202310249336.0)
-- *2023.03*: [A Training Method and Model for Predicting microRNA-Disease Associations](https://kns.cnki.net/kcms2/article/abstract?v=KrjhrmY9aOUfRhwquxl7HLs39eEG4HOWA7YU_hgl6VokYyKhmWAmnxe0g7ivqH7MMGpj0bkd4Z6_Sq0wDmiJx1EFhv7z_kXk2BzhGUSJqxI4sZlWb2zfidX7XFVZLN5nw3bVk3tGLnraN-zwZ0Ez42VzeAeTtEjXb416WU8erilG4D2ues3qGjBAdljMrTVc&uniplatform=NZKPT&language=CHS), (No.CN202211444626.2)
+- *2024.09*: [A Method for Identifying Nucleic Acid Modification Sites Using Neural Network Models](https://kns.cnki.net/kcms2/article/abstract?v=nKttgsEmyDdvKnqK7nMRqcbvtmssxqRKxONEwbmOdjeswMKOeZJA59G98zWx_-G4JU1RD-b05NqmiB2fZGhlwOdYePn57GrRi3zDOXcFjzjzM60dKLjcNqZJlN7alnuOgjLx1TRlWy6CwqWs6DJ7-btwLqxSgf1-&uniplatform=NZKPT), (No.CN202410638063.3)
+- *2023.11*: [A Construction Method for Biological Sequence Ensemble Classifiers and Methods for Predicting and Classifying Biological Sequences](https://kns.cnki.net/kcms2/article/abstract?v=nKttgsEmyDdjOSupczMlEd1nBML8PtsxBEEtVHtwQp1NZv1zV6vI0ljQe1JKDH9il2m2C22-dO7okF4bZtSZElAxrnJ_v6aE-SmI-fuozeqxYgjaTpHLyToebFgPMvNlX_318YIb5xstBQRmtgcPqcMsoK9WNL7X&uniplatform=NZKPT), (No.CN202310249336.0)
+- *2023.03*: [A Training Method and Model for Predicting microRNA-Disease Associations](https://kns.cnki.net/kcms2/article/abstract?v=nKttgsEmyDdqQOusYTSfMPYeJDlSNZVzZGP_XTdoV0F0oX12bKAYwtgSoVs7v28URi5in-1UPvFtxz4qzc5opJvxQS7PDx18j3EhjqzwrSTZz1pWIbDaZEO-F6fZjP5NTKgD7H9uXB9BaFGVSMHxEehqiakHXtVQ&uniplatform=NZKPT), (No.CN202211444626.2)
 
 # 🎖 Honors and Awards
 - *2022.06*: Outstanding graduates of Hebei Province (河北省优秀毕业生), Hebei Provincial Department of Education (河北省教育厅).
