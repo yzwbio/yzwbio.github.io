@@ -77,7 +77,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 <br>
 <br>
 
-<p style="font-size: 0.75em; font-style: italic;">*In ancient Chinese mythology, <strong>JianMu</strong> is a sacred tree, a bridge connecting heaven and earth. In biology, the phylogenetic tree is a bridge connecting genes and evolution. Thus, we chose the name <strong>JianMu</strong> for our model, highlighting its role in uncovering species relationships.</p>
+<p style="font-size: 0.8em; font-style: italic;">*In ancient Chinese mythology, <strong>JianMu</strong> is a sacred tree, a bridge connecting heaven and earth. In biology, the phylogenetic tree is a bridge connecting genes and evolution. Thus, we chose the name <strong>JianMu</strong> for our model, highlighting its role in uncovering species relationships.</p>
 
 
   </div>
