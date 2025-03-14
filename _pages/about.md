@@ -69,12 +69,13 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
   </div>
   <div class='paper-box-text' markdown="1">
 
-2️⃣ [JianMu: Fast Phylogenetic Tree Construction via Siamese Bio-sequence Language Model-based Metric Learning](#)
+2️⃣ [JianMu*: Fast Phylogenetic Tree Construction via Siamese Bio-sequence Language Model-based Metric Learning](#)
 
 ***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
 
-***In ancient Chinese mythology, **JianMu** is a sacred tree, regarded as a bridge connecting heaven and earth. In biology, the phylogenetic tree is also regarded as a bridge, connecting genes and evolution. Therefore, we have chosen the name **JianMu** for our model, emphasizing its important role in uncovering the relationships between species.***
+<p style="font-size: 0.8em; font-style: italic;">*In ancient Chinese mythology, <strong>JianMu</strong> is a sacred tree, regarded as a bridge connecting heaven and earth. In biology, the phylogenetic tree is also regarded as a bridge, connecting genes and evolution. Therefore, we have chosen the name <strong>JianMu</strong> for our model, emphasizing its important role in uncovering the relationships between species.</p>
+
 
   </div>
 </div>
