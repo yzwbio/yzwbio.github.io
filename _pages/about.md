@@ -118,7 +118,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 ***Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\**
 
-*SCIENCE CHINA Information Sciences, [CCF A](https://www.ccf.org.cn/Academic_Evaluation/Cross_Compre_Emerging/), [CAAI A](https://www.caai.cn/index.php?s=/home/article/detail/id/4024.html), Q1, IF2024=7.300*
+*SCIENCE CHINA Information Sciences, [CCF A](https://www.ccf.org.cn/Academic_Evaluation/Cross_Compre_Emerging/), [CAAI A](https://www.caai.cn/index.php?s=/home/article/detail/id/4024.html), 1区top, IF2024=7.300*
 
 <img src='images/Clarivate.jpg' style='height: 0.95em;'> 🔥 [Hot Paper](https://yzwbio.github.io/_pages/hotpaper.html) (热点论文)
 
@@ -142,7 +142,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 ***Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\**
 
-*Frontiers of Computer Science, [CCF B](https://www.ccf.org.cn/Academic_Evaluation/Cross_Compre_Emerging/), Q1, IF2022=4.200*
+*Frontiers of Computer Science, [CCF B](https://www.ccf.org.cn/Academic_Evaluation/Cross_Compre_Emerging/), 2区, IF2022=4.200*
 
   </div>
 </div>
@@ -162,7 +162,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 ***Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\**
 
-*Frontiers in Bioscience-Landmark, Q2, IF2021=4.009*
+*Frontiers in Bioscience-Landmark, JCRQ2, IF2021=4.009*
 
   </div>
 </div>
