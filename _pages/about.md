@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 About Me
 Hello there! 🙋🏼 I am Yizheng Wang (王一争), a Ph.D. candidate at University of Electronic Science and Technology of China.
 
 I obtained my bachelor's degree 🎓 in Computer Science and Technology from the &nbsp;<img src='./images/ysu.jpg' style='height: 1.5em;'>&nbsp; [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院). 
@@ -29,13 +28,13 @@ I am part of a joint training program (联合培养) at the &nbsp;<img src='./im
 I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=viewthread&tid=8672) laboratory 🔬 under the supervision of [Prof. Dr. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My main research areas are machine learning 🤖 and computational biology 🧬 and some of my work has already been published in SCI journals. <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📒 Research Interests
-## 🤖 Machine learning
+### 🤖 Machine learning
 - Deep learning (深度学习)
 - Large Language Model (大语言模型)
 - Support bio-sequence machine (支持生物序列机)
 - Support bio-sequence neural network (支持生物序列神经网络)
 
-## 🧬 Computational biology 
+### 🧬 Computational biology 
 - Biological sequence analysis (生物序列分析)
 - Biological interactions prediction (生物关联预测)
 - Multiple sequence alignment (多序列比对)
