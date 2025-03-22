@@ -21,21 +21,24 @@ Hello there! 🙋🏼 I am Yizheng Wang (王一争), a Ph.D. candidate at Univer
 
 I obtained my bachelor's degree 🎓 in Computer Science and Technology from the &nbsp;<img src='./images/ysu.jpg' style='height: 1.5em;'>&nbsp; [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院). 
 
-I am pursuing my Ph.D. degree 🎓 through a combined Master’s and Doctoral program (硕博连读) in Computer Science and Technology at the &nbsp;<img src='./images/iffs.jpg' style='height: 1.5em;'>&nbsp; [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/),&nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). 
+I am pursuing my Ph.D. degree 🎓 through a combined Master’s and Doctoral program (硕博连读) at the &nbsp;<img src='./images/iffs.jpg' style='height: 1.5em;'>&nbsp; [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/),&nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), majoring in Computer Science and Technology. 
 
 I am part of a joint training program (联合培养) at the &nbsp;<img src='./images/ydri.jpg' style='height: 1.5em;'>&nbsp; [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院).
 
-I am conducting scientific research at the [Malab](http://123.57.240.48/forum.php?mod=viewthread&tid=8672) laboratory 🔬 and supervised by [Prof. Dr. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My main research areas are bioinformatics 🧬 and machine learning 🤖, and some of my work has already been published in SCI journals. <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am conducting scientific research at the [Malab](http://123.57.240.48/forum.php?mod=viewthread&tid=8672) laboratory 🔬 and supervised by [Prof. Dr. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My main research areas are machine learning 🤖 and computational biology 🧬 and , and some of my work has already been published in SCI journals. <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📒 Research Interests
+🤖 Machine learning
+- Deep learning (深度学习)
+- Large Language Model (大语言模型)
 - Support bio-sequence machine (支持生物序列机)
 - Support bio-sequence neural network (支持生物序列神经网络)
-- Phylogenetic tree construction (进化树构建)
+🧬 Computational biology 
 - Biological sequence analysis (生物序列分析)
 - Biological interactions prediction (生物关联预测)
 - Multiple sequence alignment (多序列比对)
-- Deep learning (深度学习)
-- Large Language Model (大语言模型)
+- Phylogenetic tree construction (系统发生树构建)
+
 
 # 🔥 News
 - *2024.12.27*: I have been awarded the CSC Scholarship for the joint training program abroad! ✈️🎉
