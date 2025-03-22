@@ -21,7 +21,9 @@ Hello there! 🙋🏼 I am Yizheng Wang (王一争), a Ph.D. candidate at Univer
 
 I obtained my bachelor's degree 🎓 in Computer Science and Technology from the &nbsp;<img src='./images/ysu.jpg' style='height: 1.5em;'>&nbsp; [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院). 
 
-I am pursuing my Ph.D. degree 🎓 through a combined Master’s and Doctoral program (硕博连读) at the &nbsp;<img src='./images/iffs.jpg' style='height: 1.5em;'>&nbsp; [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/),&nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), majoring in Computer Science and Technology. 
+<!-- I am pursuing my Ph.D. degree 🎓 through a combined Master’s and Doctoral program (硕博连读) at the &nbsp;<img src='./images/iffs.jpg' style='height: 1.5em;'>&nbsp; [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/),&nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), majoring in Computer Science and Technology.  -->
+
+I am pursuing my Ph.D. degree 🎓 through a combined Master’s and Doctoral program (硕博连读) at the <img src='./images/uestc.jpg' style='height: 1.5em;'><img src='./images/iffs.jpg' style='height: 1.5em;'>&nbsp; [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), majoring in Computer Science and Technology. 
 
 I am part of a joint training program (联合培养) at the &nbsp;<img src='./images/ydri.jpg' style='height: 1.5em;'>&nbsp; [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院).
 
