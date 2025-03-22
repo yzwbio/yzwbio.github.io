@@ -205,13 +205,13 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 
 # 📖 Educations
 - *2024.09 - (now)*: Ph.D. candidate, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
-- *2023.07 - (now)*: Ph.D. candidate, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; 
+- *2023.07 - (now)*: Ph.D. candidate, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院). &nbsp;<img src='./images/ydri.jpg' style='height: 1.5em;'>&nbsp; 
 - *2022.09 - 2024.06*: Master, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
 - *2018.09 - 2022.06*: Bachelor, [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院). &nbsp;<img src='./images/ysu.jpg' style='height: 1.5em;'>&nbsp;
 - *2015.09 - 2018.06*: High school student, [Hebei Zhengding Senior High School](http://www.zhengzhong.cn/home.html), [East Campus](http://dongxiaoqu.zhengzhong.cn/) (河北正定中学，东校区). &nbsp;<img src='./images/zz.jpg' style='height: 1.5em;'>&nbsp;
 
 <br>
 <div align="center">
-Last updated: 2025.03.18
+Last updated: 2025.03.22
 </div>
 <br>
