@@ -25,7 +25,7 @@ I am pursuing my Ph.D. degree 🎓 through a combined Master’s and Doctoral pr
 
 I am part of a joint training program (联合培养) at the &nbsp;<img src='./images/ydri.jpg' style='height: 1.5em;'>&nbsp; [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院).
 
-I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=viewthread&tid=8672) laboratory 🔬 under the supervision of [Prof. Dr. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My main research areas are machine learning 🤖 and computational biology 🧬 and some of my work has already been published in SCI journals. <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=viewthread&tid=8672) laboratory 🔬 under the supervision of [Prof. Dr. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My main research areas are machine learning 🤖 and computational biology 🧬, with several publications in SCI-indexed journals. <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📒 Research Interests
 ### 🤖 Machine learning
