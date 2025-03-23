@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello there! 🙋🏼 I am Yizheng Wang (王一争), a Ph.D. candidate at University of Electronic Science and Technology of China.
+Hello there! 🙋🏼 I am Yizheng Wang (王一争), a Ph.D. candidate at the University of Electronic Science and Technology of China.
 
 I obtained my bachelor's degree 🎓 in Computer Science and Technology from the &nbsp;<img src='./images/ysu.jpg' style='height: 1.5em;'>&nbsp; [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院). 
 
