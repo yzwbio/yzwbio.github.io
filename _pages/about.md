@@ -146,7 +146,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 
 ***Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\**
 
-*Frontiers of Computer Science, [CCF B](https://www.ccf.org.cn/Academic_Evaluation/Cross_Compre_Emerging/), 中科院2区, IF2022=4.200*
+*Frontiers of Computer Science, [CCF B](https://www.ccf.org.cn/Academic_Evaluation/Cross_Compre_Emerging/), [CAAI A](https://www.caai.cn/index.php?s=/home/article/detail/id/4024.html), 中科院2区, IF2022=4.200*
 
   </div>
 </div>
