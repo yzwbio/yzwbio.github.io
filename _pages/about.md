@@ -29,7 +29,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 
 # 📒 Research Interests
 ### 🤖 Machine learning
-- Deep learning (深度学习)
+- Artificial Intelligence (人工智能)
 - Large Language Model (大语言模型)
 - Support bio-sequence machine (支持生物序列机)
 - Support bio-sequence neural network (支持生物序列神经网络)
@@ -216,6 +216,6 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 
 <br>
 <div align="center">
-Last updated: 2025.03.22
+Last updated: 2025.03.25
 </div>
 <br>
