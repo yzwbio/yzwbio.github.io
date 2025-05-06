@@ -176,7 +176,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 <!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
-      <div class="badge">Under Review</div>
+      <div class="badge">CCF C</div>
       <img src='images/XGBoost.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -185,7 +185,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 
 ***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
-*International Conference On Intelligent Computing (ICIC2025)*
+*International Conference On Intelligent Computing (ICIC<sub>2025</sub>), CCF C*
 
   </div>
 </div>
