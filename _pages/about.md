@@ -55,7 +55,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
   </div>
   <div class='paper-box-text' markdown="1">
 
-1️⃣ [SBNN: Support Bio-sequence Neural Network](#)
+1️⃣ [Support Bio-Sequence-Guided Bio-Language Modeling of Nucleic Acids for Epigenetic Modification Prediction](#)
 
 ***Yizheng Wang**, Yanming Wei, Yijie Ding\*, Quan Zou\**
 
