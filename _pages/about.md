@@ -69,7 +69,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">Perform experiments</div>
-      <img src='images/DeepKernelSBSM.jpg' alt="sym" width="100%">
+      <img src='images/JianMu.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
 
