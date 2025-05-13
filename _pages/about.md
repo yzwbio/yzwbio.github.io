@@ -124,7 +124,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 
 *SCIENCE CHINA Information Sciences, [CCF A](https://www.ccf.org.cn/Academic_Evaluation/Cross_Compre_Emerging/), [CAAI A](https://www.caai.cn/index.php?s=/home/article/detail/id/4024.html), 中科院1区top, IF2024=7.300*
 
-<img src='images/Clarivate.jpg' style='height: 0.95em;'> 🔥 [Hot Paper](https://yzwbio.github.io/_pages/hotpaper.html) (热点论文)
+<img src='images/Clarivate.jpg' style='height: 0.95em;'> 🏆 [Highly Cited Paper](https://yzwbio.github.io/_pages/highlycited.html) (高被引论文) 🔥 [Hot Paper](https://yzwbio.github.io/_pages/hotpaper.html) (热点论文) 
 
 🌐 [Website](http://lab.malab.cn/soft/SBSM-Pro/)
 
