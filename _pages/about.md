@@ -42,6 +42,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 
 
 # 🔥 News
+- *2025.05.13*: My paper has been recognized by <img src='images/Clarivate.jpg' style='height: 0.95em;'> as both a 🏆 Highly Cited Paper and a 🔥 Hot Paper! 
 - *2024.12.27*: I have been awarded the CSC Scholarship for the joint training program abroad! ✈️🎉
 - *2024.10.07*: My new paper has been accepted by the CCF A journal *SCIENCE CHINA Information Sciences*! 📑🎉
 - *2024.03.17*: My new personal homepage has been released. 🌐🎉
