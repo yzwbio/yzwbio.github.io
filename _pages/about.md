@@ -48,6 +48,24 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 - *2024.03.17*: My new personal homepage has been released. 🌐🎉
 
 # 📝 Projects
+
+<!------------------------------------------------------------------------------>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+      <div class="badge">Perform Experiments</div>
+      <img src='images/amp.jpg' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+(1) [Rational De Novo Design of Therapeutic Peptides Based on the Support Bio-sequence](#)
+
+***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
+
+  </div>
+</div>
+<!------------------------------------------------------------------------------>
+
+
 <!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -56,7 +74,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
   </div>
   <div class='paper-box-text' markdown="1">
 
-1️⃣ [Support Bio-Sequence-Guided Bio-Language Modeling of Nucleic Acids for Epigenetic Modification Prediction](#)
+(2) [Support Bio-Sequence-Guided Bio-Language Modeling of Nucleic Acids for Epigenetic Modification Prediction](#)
 
 ***Yizheng Wang**, Yanming Wei, Yijie Ding\*, Quan Zou\**
 
@@ -74,7 +92,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
   </div>
   <div class='paper-box-text' markdown="1">
 
-2️⃣ [JianMu*: Fast Phylogenetic Tree Construction via Siamese Bio-sequence Language Model-based Metric Learning](#)
+(3) [JianMu*: Fast Phylogenetic Tree Construction via Siamese Bio-sequence Language Model-based Metric Learning](#)
 
 ***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
@@ -99,7 +117,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
   </div>
   <div class='paper-box-text' markdown="1">
 
-3️⃣ [SSM: Support Subsequence Machine](#)
+(4) [SSM: Support Subsequence Machine](#)
 
 ***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
@@ -119,7 +137,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
   </div>
   <div class='paper-box-text' markdown="1">
 
-4️⃣ [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4171-9)
+(5) [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4171-9)
 
 ***Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\**
 
@@ -143,7 +161,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
   </div>
   <div class='paper-box-text' markdown="1">
 
-5️⃣ [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
+(6) [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
 
 ***Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\**
 
@@ -163,7 +181,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
   </div>
   <div class='paper-box-text' markdown="1">
     
-6️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm)
+(7) [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm)
 
 ***Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\**
 
@@ -182,7 +200,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
   </div>
   <div class='paper-box-text' markdown="1">
     
-7️⃣ [SeqAlignXGBoost: Sequence Alignment and Feature Selection for m1A Modification Site Identification](#)
+(8) [SeqAlignXGBoost: Sequence Alignment and Feature Selection for m1A Modification Site Identification](#)
 
 ***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
@@ -192,17 +210,17 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 </div>
 <!------------------------------------------------------------------------------>
 
+- (9) [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011988), *Yixiao Zhai, Jiannan Chao, **Yizheng Wang**, Pinglu Zhang, Furong Tang\*, Quan Zou\*. PLOS Computational Biology, Q1, IF2024=3.800*
 
-- 8️⃣ [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011988), *Yixiao Zhai, Jiannan Chao, **Yizheng Wang**, Pinglu Zhang, Furong Tang\*, Quan Zou\*. PLOS Computational Biology, Q1, IF2024=3.800*
+- (10) [A survey on multi-view fusion for predicting links in biomedical bipartite networks: Methods and applications](https://www.sciencedirect.com/science/article/pii/S1566253524006729), *Yuqing Qian, **Yizheng Wang**, Junkai Liu, Quan Zou\*, Yijie Ding\*. Information Fusion, Q1, IF2024=14.700*
 
-- 9️⃣ [A survey on multi-view fusion for predicting links in biomedical bipartite networks: Methods and applications](https://www.sciencedirect.com/science/article/pii/S1566253524006729), *Yuqing Qian, **Yizheng Wang**, Junkai Liu, Quan Zou\*, Yijie Ding\*. Information Fusion, Q1, IF2024=14.700*
-
-- 🔟 [Application of Artificial Intelligence in Drug-Target Interactions Prediction: A Review](https://www.nature.com/articles/s44385-024-00003-9), *Qian Liao, ..., **Yizheng Wang**, Yijie Ding\*, Quan Zou\*, Ke Han\*. npj Biomedical Innovations*
+- (11) [Application of Artificial Intelligence in Drug-Target Interactions Prediction: A Review](https://www.nature.com/articles/s44385-024-00003-9), *Qian Liao, ..., **Yizheng Wang**, Yijie Ding\*, Quan Zou\*, Ke Han\*. npj Biomedical Innovations*
 
 # 📜 Patents
-- *2024.09*: [A Method for Identifying Nucleic Acid Modification Sites Using Neural Network Models](https://kns.cnki.net/kcms2/article/abstract?v=nKttgsEmyDdvKnqK7nMRqcbvtmssxqRKxONEwbmOdjeswMKOeZJA59G98zWx_-G4JU1RD-b05NqmiB2fZGhlwOdYePn57GrRi3zDOXcFjzjzM60dKLjcNqZJlN7alnuOgjLx1TRlWy6CwqWs6DJ7-btwLqxSgf1-&uniplatform=NZKPT), (No.CN202410638063.3)
-- *2023.11*: [A Construction Method for Biological Sequence Ensemble Classifiers and Methods for Predicting and Classifying Biological Sequences](https://kns.cnki.net/kcms2/article/abstract?v=nKttgsEmyDdjOSupczMlEd1nBML8PtsxBEEtVHtwQp1NZv1zV6vI0ljQe1JKDH9il2m2C22-dO7okF4bZtSZElAxrnJ_v6aE-SmI-fuozeqxYgjaTpHLyToebFgPMvNlX_318YIb5xstBQRmtgcPqcMsoK9WNL7X&uniplatform=NZKPT), (No.CN202310249336.0)
-- *2023.03*: [A Training Method and Model for Predicting microRNA-Disease Associations](https://kns.cnki.net/kcms2/article/abstract?v=nKttgsEmyDdqQOusYTSfMPYeJDlSNZVzZGP_XTdoV0F0oX12bKAYwtgSoVs7v28URi5in-1UPvFtxz4qzc5opJvxQS7PDx18j3EhjqzwrSTZz1pWIbDaZEO-F6fZjP5NTKgD7H9uXB9BaFGVSMHxEehqiakHXtVQ&uniplatform=NZKPT), (No.CN202211444626.2)
+- *2025.04*: [A Phylogenetic Tree Construction Method Based on Metric Learning](https://cprs.patentstar.com.cn/Search/Detail?ANE=5CBA5BEA9GFE9DHG8GBA4CCA9CGE9DGD9EEC9HAF7FAA9BEF), (No.CN202510533729.3)
+- *2024.09*: [A Method for Identifying Nucleic Acid Modification Sites Using Neural Network Models](https://cprs.patentstar.com.cn/Search/Detail?ANE=7BEA9EFA9DHD6BBA6EBA5DCA8CAA9ICEAIBA9GGD9EFG9FGF), (No.CN202410638063.3)
+- *2023.11*: [A Construction Method for Biological Sequence Ensemble Classifiers and Methods for Predicting and Classifying Biological Sequences](https://cprs.patentstar.com.cn/Search/Detail?ANE=7EBA8IAA4BBA9GEE9AIA9IGF9HCC9DCAGGIA9AHB9IBD7BAA), (No.CN202310249336.0)
+- *2023.03*: [A Training Method and Model for Predicting microRNA-Disease Associations](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA9HCA6DBA9CGB9BHA9HBA9HAC9IDG9GFG9GAD8AGA9AGD), (No.CN202211444626.2)
 
 # 🎖 Awards and Funds
 - *2024.12*: CSC Scholarship for Study Abroad (公派留学奖学金), China Scholarship Council (国家留学基金管理委员会), *22,800 AUD$*.
