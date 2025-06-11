@@ -47,13 +47,13 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">Write Manuscripts</div>
-      <img src='images/SBNN.jpg' alt="sym" width="100%">
+      <img src='images/amp.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
 
-(2) [SBNN: Support Bio-sequence Neural Network](#)
+(1) [Rational De Novo Design of Therapeutic Peptides Based on the Support Bio-sequence](#)
 
-***Yizheng Wang**, Yanming Wei, Yijie Ding\*, Quan Zou\**
+***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
   </div>
 </div>
@@ -75,7 +75,6 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
   </div>
 </div>
 <!------------------------------------------------------------------------------>
-
 
 
 <!------------------------------------------------------------------------------>
