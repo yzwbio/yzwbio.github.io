@@ -38,8 +38,8 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 - Biological sequence analysis (生物序列分析)
 - Biological interactions prediction (生物关联预测)
 - Multiple sequence alignment (多序列比对)
+- Therapeutic peptide design (治疗肽设计)
 - Phylogenetic tree construction (系统发生树构建)
-
 
 # 🔥 News
 - *2025.05.13*: My paper has been recognized by <img src='images/Clarivate.jpg' style='height: 0.95em;'> as both a 🏆 Highly Cited Paper and a 🔥 Hot Paper! 
@@ -47,7 +47,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 - *2024.10.07*: My new paper has been accepted by the CCF A journal *SCIENCE CHINA Information Sciences*! 📑🎉
 - *2024.03.17*: My new personal homepage has been released. 🌐🎉
 
-# 📝 Projects
+# 📝 Projects and Papers
 
 <!------------------------------------------------------------------------------>
 <div class='paper-box'>
@@ -69,7 +69,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 <!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
-      <div class="badge">Write Manuscripts</div>
+      <div class="badge">Under Review</div>
       <img src='images/SBNN.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -87,7 +87,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 <!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
-      <div class="badge">Perform experiments</div>
+      <div class="badge">Perform Experiments</div>
       <img src='images/JianMu.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -112,7 +112,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 <!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
-      <div class="badge">Perform experiments</div>
+      <div class="badge">Perform Experiments</div>
       <img src='images/hckdm.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -176,7 +176,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 <!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
-      <div class="badge">Q2</div>
+      <div class="badge">JCR Q2</div>
       <img src='images/et.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -204,7 +204,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 
 ***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
-*2025 International Conference On Intelligent Computing (ICIC2025), CCF C*
+*2025 International Conference On Intelligent Computing (ICIC2025, Ninbgbo), CCF C *
 
   </div>
 </div>
@@ -235,6 +235,6 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 
 <br>
 <div align="center">
-Last updated: 2025.05.13
+Last updated: 2025.06.11
 </div>
 <br>
