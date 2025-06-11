@@ -46,7 +46,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 <!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
-      <div class="badge">Write Manuscripts</div>
+      <div class="badge">Perform Experiments</div>
       <img src='images/amp.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -63,7 +63,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 <!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
-      <div class="badge">Write Manuscripts</div>
+      <div class="badge">Under Review</div>
       <img src='images/SBNN.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -80,7 +80,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 <!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
-      <div class="badge">Perform experiments</div>
+      <div class="badge">Perform Experiments</div>
       <img src='images/DeepKernelSBSM.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -98,7 +98,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
 <!------------------------------------------------------------------------------>
 <div class='paper-box'>
   <div class='paper-box-image'>
-      <div class="badge">Perform experiments</div>
+      <div class="badge">Perform Experiments</div>
       <img src='images/hckdm.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -123,7 +123,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
   </div>
   <div class='paper-box-text' markdown="1">
 
-4️⃣ [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4171-9)
+(5) [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4171-9)
 
 ***Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\**
 
@@ -145,7 +145,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
   </div>
   <div class='paper-box-text' markdown="1">
 
-5️⃣ [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
+(6) [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
 
 ***Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\**
 
@@ -165,7 +165,7 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
   </div>
   <div class='paper-box-text' markdown="1">
     
-6️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm)
+(7) [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm)
 
 ***Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\**
 
@@ -184,27 +184,28 @@ I am conducting scientific research at the [Malab](http://123.57.240.48/forum.ph
   </div>
   <div class='paper-box-text' markdown="1">
     
-7️⃣ [SeqAlignXGBoost: Sequence Alignment and Feature Selection for m1A Modification Site Identification](#)
+(8) [SeqAlignXGBoost: Sequence Alignment and Feature Selection for m1A Modification Site Identification](#)
 
 ***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
-*International Conference On Intelligent Computing(ICIC2025)*
+*International Conference On Intelligent Computing(ICIC2025, Ningbo)*
 
   </div>
 </div>
 <!------------------------------------------------------------------------------>
 
 
-- 8️⃣ [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011988), *Yixiao Zhai, Jiannan Chao, **Yizheng Wang**, Pinglu Zhang, Furong Tang\*, Quan Zou\*. PLOS Computational Biology, Q1, IF2024=3.800*
+- (9) [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011988), *Yixiao Zhai, Jiannan Chao, **Yizheng Wang**, Pinglu Zhang, Furong Tang\*, Quan Zou\*. PLOS Computational Biology, Q1, IF2024=3.800*
 
-- 9️⃣ [A survey on multi-view fusion for predicting links in biomedical bipartite networks: Methods and applications](https://www.sciencedirect.com/science/article/pii/S1566253524006729), *Yuqing Qian, **Yizheng Wang**, Junkai Liu, Quan Zou\*, Yijie Ding\*. Information Fusion, Q1, IF2024=14.700*
+- (10) [A survey on multi-view fusion for predicting links in biomedical bipartite networks: Methods and applications](https://www.sciencedirect.com/science/article/pii/S1566253524006729), *Yuqing Qian, **Yizheng Wang**, Junkai Liu, Quan Zou\*, Yijie Ding\*. Information Fusion, Q1, IF2024=14.700*
 
-- 🔟 [Application of Artificial Intelligence in Drug-Target Interactions Prediction: A Review](#), *Qian Liao, ..., **Yizheng Wang**, Yijie Ding\*, Quan Zou\*, Ke Han\*. npj Biomedical Innovations*
+- (11) [Application of Artificial Intelligence in Drug-Target Interactions Prediction: A Review](#), *Qian Liao, ..., **Yizheng Wang**, Yijie Ding\*, Quan Zou\*, Ke Han\*. npj Biomedical Innovations*
 
 # 📜 Patents
-- *2024.09*: [A Method for Identifying Nucleic Acid Modification Sites Using Neural Network Models](https://kns.cnki.net/kcms2/article/abstract?v=KrjhrmY9aOXwzcTFbmu4pBVqW6DPEI-3s0eeepmiORdD_xlRYRdokzlxTNhO6A9FPYNpzStZkcusZY1ym64QEuroqXVLrztg7MX3h489zCaYfn64r-40gZk78gu7tiLtTkaYemw2Lgkj9EgICsZle3GRTCIe1KCyAPZoNCKvEvM6srNDg93Sks1eezcWmaaY&uniplatform=NZKPT&language=CHS), (No.CN202410638063.3)
-- *2023.11*: [A Construction Method for Biological Sequence Ensemble Classifiers and Methods for Predicting and Classifying Biological Sequences](https://kns.cnki.net/kcms2/article/abstract?v=KrjhrmY9aOUfRhwquxl7HLs39eEG4HOWA7YU_hgl6VokYyKhmWAmnzYZ3Ea4G7SD7F_EjGYy2l4zHPrWwAIrk2sgCA2tIP-9_iVykNNvEQC1iwmqfsrlNgnOA8RIr-jBwhosolorFg4Xx9XiXZFUK4oFPWphlNbZipyKt_YBKiHiVInY_38iG5LMsAWILYeM&uniplatform=NZKPT&language=CHS), (No.CN202310249336.0)
-- *2023.03*: [A Training Method and Model for Predicting microRNA-Disease Associations](https://kns.cnki.net/kcms2/article/abstract?v=KrjhrmY9aOUfRhwquxl7HLs39eEG4HOWA7YU_hgl6VokYyKhmWAmnxe0g7ivqH7MMGpj0bkd4Z6_Sq0wDmiJx1EFhv7z_kXk2BzhGUSJqxI4sZlWb2zfidX7XFVZLN5nw3bVk3tGLnraN-zwZ0Ez42VzeAeTtEjXb416WU8erilG4D2ues3qGjBAdljMrTVc&uniplatform=NZKPT&language=CHS), (No.CN202211444626.2)
+- *2025.04*: [A Phylogenetic Tree Construction Method Based on Metric Learning](https://cprs.patentstar.com.cn/Search/Detail?ANE=5CBA5BEA9GFE9DHG8GBA4CCA9CGE9DGD9EEC9HAF7FAA9BEF), (No.CN202510533729.3)
+- *2024.09*: [A Method for Identifying Nucleic Acid Modification Sites Using Neural Network Models](https://cprs.patentstar.com.cn/Search/Detail?ANE=7BEA9EFA9DHD6BBA6EBA5DCA8CAA9ICEAIBA9GGD9EFG9FGF), (No.CN202410638063.3)
+- *2023.11*: [A Construction Method for Biological Sequence Ensemble Classifiers and Methods for Predicting and Classifying Biological Sequences](https://cprs.patentstar.com.cn/Search/Detail?ANE=7EBA8IAA4BBA9GEE9AIA9IGF9HCC9DCAGGIA9AHB9IBD7BAA), (No.CN202310249336.0)
+- *2023.03*: [A Training Method and Model for Predicting microRNA-Disease Associations](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA9HCA6DBA9CGB9BHA9HBA9HAC9IDG9GFG9GAD8AGA9AGD), (No.CN202211444626.2)
 
 # 🎖 Honors and Awards
 - *2022.06*: Outstanding graduates of Hebei Province (河北省优秀毕业生), Hebei Provincial Department of Education (河北省教育厅).
