@@ -204,7 +204,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 
 ***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
-*2025 International Conference On Intelligent Computing (ICIC2025, Ninbgbo), CCF C *
+*2025 International Conference On Intelligent Computing (ICIC2025), CCF C*
 
   </div>
 </div>
