@@ -145,7 +145,6 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 
 <img src='images/Clarivate.jpg' style='height: 0.95em;'> 🏆 [Highly Cited Paper](https://yzwbio.github.io/_pages/hotpaper.html) (高被引论文) 🔥 [Hot Paper](https://yzwbio.github.io/_pages/hotpaper.html) (热点论文) 
 
-<span class="show_paper_citations" data="NEWRm1gAAAAJ:u-x6o8ySG0sC">
 
 🌐 [Website](http://lab.malab.cn/soft/SBSM-Pro/)
 
