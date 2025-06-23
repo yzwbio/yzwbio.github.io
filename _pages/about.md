@@ -57,7 +57,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
   </div>
   <div class='paper-box-text' markdown="1">
 
-(1) [Rational De Novo Design of Therapeutic Peptides Based on the Support Bio-sequence](#)
+(1) [Rational De Novo Design of Multifunctional Therapeutic Peptides Guided by Support Bio-sequence](#)
 
 ***Yizheng Wang**, Yijie Ding\*, Quan Zou\**
 
@@ -76,7 +76,7 @@ I currently conduct research in the [Malab](http://123.57.240.48/forum.php?mod=v
 
 (2) [Support Bio-Sequence-Guided Bio-Language Modeling of Nucleic Acids for Epigenetic Modification Prediction](#)
 
-***Yizheng Wang**, Yanming Wei, Yijie Ding\*, Quan Zou\**
+***Yizheng Wang**, Pinglu Zhang, Yi Ding, Wenyu Zhang, Yanming Wei, Yijie Ding\*, Quan Zou\**
 
   </div>
 </div>
