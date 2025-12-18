@@ -1,1 +1,155 @@
-{"container_type": "Author", "filled": ["basics", "publications", "indices", "counts"], "scholar_id": "NEWRm1gAAAAJ", "source": "AUTHOR_PROFILE_PAGE", "name": "Yizheng Wang", "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NEWRm1gAAAAJ&citpid=1", "affiliation": "University of Electronic Science and Technology of China", "organization": 9610860646987207346, "interests": ["Bioinformatics"], "email_domain": "@std.uestc.edu.cn", "homepage": "http://lab.malab.cn/~wyz/", "citedby": 299, "publications": {"NEWRm1gAAAAJ:u-x6o8ySG0sC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "SBSM-Pro: support bio-sequence machine for proteins", "pub_year": "2024", "citation": "Science China Information Sciences 67 (11), 212106, 2024"}, "filled": false, "author_pub_id": "NEWRm1gAAAAJ:u-x6o8ySG0sC", "num_citations": 237, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2017628879934391385", "cites_id": ["2017628879934391385"]}, "NEWRm1gAAAAJ:d1gkVwhDpl0C": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning", "pub_year": "2024", "citation": "Frontiers of Computer Science 18 (2), 182903, 2024"}, "filled": false, "author_pub_id": "NEWRm1gAAAAJ:d1gkVwhDpl0C", "num_citations": 43, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15590100129495940358", "cites_id": ["15590100129495940358"]}, "NEWRm1gAAAAJ:j3f4tGmQtD8C": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Application of artificial intelligence in drug-target interactions prediction: a review", "pub_year": "2025", "citation": "npj biomedical innovations 2 (1), 1, 2025"}, "filled": false, "author_pub_id": "NEWRm1gAAAAJ:j3f4tGmQtD8C", "num_citations": 10, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4844386886304127294", "cites_id": ["4844386886304127294"]}, "NEWRm1gAAAAJ:9yKSN-GCB0IC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments", "pub_year": "2024", "citation": "PLOS Computational Biology 20 (4), e1011988, 2024"}, "filled": false, "author_pub_id": "NEWRm1gAAAAJ:9yKSN-GCB0IC", "num_citations": 4, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5455168442536649634", "cites_id": ["5455168442536649634"]}, "NEWRm1gAAAAJ:u5HHmVD_uO8C": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "ET-MSF: a model stacking framework to identify electron transport proteins", "pub_year": "2022", "citation": "Frontiers in Bioscience-Landmark 27 (1), 12, 2022"}, "filled": false, "author_pub_id": "NEWRm1gAAAAJ:u5HHmVD_uO8C", "num_citations": 4, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14518979519302368284", "cites_id": ["14518979519302368284"]}, "NEWRm1gAAAAJ:-f6ydRqryjwC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "A survey on multi-view fusion for predicting links in biomedical bipartite networks: Methods and applications", "pub_year": "2025", "citation": "Information Fusion 117, 102894, 2025"}, "filled": false, "author_pub_id": "NEWRm1gAAAAJ:-f6ydRqryjwC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1736622252805307319", "cites_id": ["1736622252805307319"]}, "NEWRm1gAAAAJ:iH-uZ7U-co4C": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "DTI-RME: a robust and multi-kernel ensemble approach for drug-target interaction prediction", "pub_year": "2025", "citation": "BMC biology 23 (1), 225, 2025"}, "filled": false, "author_pub_id": "NEWRm1gAAAAJ:iH-uZ7U-co4C", "num_citations": 0}, "NEWRm1gAAAAJ:r0BpntZqJG4C": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "SeqAlignXGBoost: Sequence Alignment and Feature Selection for m1A Modification Site Identification", "pub_year": "2025", "citation": "International Conference on Intelligent Computing, 77-88, 2025"}, "filled": false, "author_pub_id": "NEWRm1gAAAAJ:r0BpntZqJG4C", "num_citations": 0}}, "citedby5y": 299, "hindex": 4, "hindex5y": 4, "i10index": 3, "i10index5y": 3, "cites_per_year": {"2022": 1, "2023": 17, "2024": 96, "2025": 185}, "updated": "2025-09-17 17:12:57.849799"}
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "publications",
+        "indices",
+        "counts"
+    ],
+    "scholar_id": "NEWRm1gAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Yizheng Wang",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NEWRm1gAAAAJ&citpid=1",
+    "affiliation": "University of Electronic Science and Technology of China",
+    "organization": 9610860646987207346,
+    "interests": [
+        "Bioinformatics"
+    ],
+    "email_domain": "@std.uestc.edu.cn",
+    "homepage": "http://lab.malab.cn/~wyz/",
+    "citedby": 388,
+    "publications": {
+        "NEWRm1gAAAAJ:u-x6o8ySG0sC": {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SBSM-Pro: support bio-sequence machine for proteins",
+                "pub_year": "2024",
+                "citation": "Science China Information Sciences 67 (11), 212106, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "NEWRm1gAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 289,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2017628879934391385",
+            "cites_id": [
+                "2017628879934391385"
+            ]
+        },
+        "NEWRm1gAAAAJ:d1gkVwhDpl0C": {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning",
+                "pub_year": "2024",
+                "citation": "Frontiers of Computer Science 18 (2), 182903, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "NEWRm1gAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 64,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15590100129495940358",
+            "cites_id": [
+                "15590100129495940358"
+            ]
+        },
+        "NEWRm1gAAAAJ:j3f4tGmQtD8C": {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of artificial intelligence in drug-target interactions prediction: a review",
+                "pub_year": "2025",
+                "citation": "npj biomedical innovations 2 (1), 1, 2025"
+            },
+            "filled": false,
+            "author_pub_id": "NEWRm1gAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4844386886304127294",
+            "cites_id": [
+                "4844386886304127294"
+            ]
+        },
+        "NEWRm1gAAAAJ:9yKSN-GCB0IC": {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments",
+                "pub_year": "2024",
+                "citation": "PLOS Computational Biology 20 (4), e1011988, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "NEWRm1gAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5455168442536649634",
+            "cites_id": [
+                "5455168442536649634"
+            ]
+        },
+        "NEWRm1gAAAAJ:-f6ydRqryjwC": {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A survey on multi-view fusion for predicting links in biomedical bipartite networks: Methods and applications",
+                "pub_year": "2025",
+                "citation": "Information Fusion 117, 102894, 2025"
+            },
+            "filled": false,
+            "author_pub_id": "NEWRm1gAAAAJ:-f6ydRqryjwC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1736622252805307319",
+            "cites_id": [
+                "1736622252805307319"
+            ]
+        },
+        "NEWRm1gAAAAJ:u5HHmVD_uO8C": {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ET-MSF: a model stacking framework to identify electron transport proteins",
+                "pub_year": "2022",
+                "citation": "Frontiers in Bioscience-Landmark 27 (1), 12, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NEWRm1gAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14518979519302368284",
+            "cites_id": [
+                "14518979519302368284"
+            ]
+        },
+        "NEWRm1gAAAAJ:iH-uZ7U-co4C": {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DTI-RME: a robust and multi-kernel ensemble approach for drug-target interaction prediction",
+                "pub_year": "2025",
+                "citation": "BMC biology 23 (1), 225, 2025"
+            },
+            "filled": false,
+            "author_pub_id": "NEWRm1gAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        "NEWRm1gAAAAJ:r0BpntZqJG4C": {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SeqAlignXGBoost: Sequence Alignment and Feature Selection for m1A Modification Site Identification",
+                "pub_year": "2025",
+                "citation": "International Conference on Intelligent Computing, 77-88, 2025"
+            },
+            "filled": false,
+            "author_pub_id": "NEWRm1gAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        }
+    },
+    "citedby5y": 388,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 17,
+        "2024": 94,
+        "2025": 272
+    },
+    "updated": "2025-12-18 15:57:36.748118"
+}
