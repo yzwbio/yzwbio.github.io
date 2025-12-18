@@ -34,7 +34,7 @@ def copy_to_server(local_file_path, remote_file_path, hostname, username):
 if __name__ == '__main__':
     # 复制HTML文件到远程服务器
     copy_to_server(
-        local_file_path='/Users/ryan/Ryan/4_codes/homepage/index.html',
+        local_file_path='/Users/ryan/Ryan/4_codes/yzwbio.github.io/index.html',
         remote_file_path='/www/web/malab_cloudfood_me/public_html/~wyz/index.html',
         hostname='123.57.240.48',
         username='wangyizheng'  # 替换为你登录服务器时使用的用户名
