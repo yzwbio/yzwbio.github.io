@@ -17,7 +17,7 @@
     ],
     "email_domain": "@std.uestc.edu.cn",
     "homepage": "http://lab.malab.cn/~wyz/",
-    "citedby": 388,
+    "citedby": 394,
     "publications": {
         "NEWRm1gAAAAJ:u-x6o8ySG0sC": {
             "container_type": "Publication",
@@ -29,7 +29,7 @@
             },
             "filled": false,
             "author_pub_id": "NEWRm1gAAAAJ:u-x6o8ySG0sC",
-            "num_citations": 289,
+            "num_citations": 291,
             "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2017628879934391385",
             "cites_id": [
                 "2017628879934391385"
@@ -61,7 +61,7 @@
             },
             "filled": false,
             "author_pub_id": "NEWRm1gAAAAJ:j3f4tGmQtD8C",
-            "num_citations": 22,
+            "num_citations": 25,
             "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4844386886304127294",
             "cites_id": [
                 "4844386886304127294"
@@ -125,7 +125,11 @@
             },
             "filled": false,
             "author_pub_id": "NEWRm1gAAAAJ:iH-uZ7U-co4C",
-            "num_citations": 0
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=529846064214916612",
+            "cites_id": [
+                "529846064214916612"
+            ]
         },
         "NEWRm1gAAAAJ:r0BpntZqJG4C": {
             "container_type": "Publication",
@@ -140,7 +144,7 @@
             "num_citations": 0
         }
     },
-    "citedby5y": 388,
+    "citedby5y": 394,
     "hindex": 4,
     "hindex5y": 4,
     "i10index": 3,
@@ -149,7 +153,7 @@
         "2022": 1,
         "2023": 17,
         "2024": 94,
-        "2025": 272
+        "2025": 278
     },
-    "updated": "2025-12-18 15:57:36.748118"
+    "updated": "2025-12-22 18:24:14.584828"
 }
