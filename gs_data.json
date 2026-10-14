@@ -17,7 +17,7 @@
     ],
     "email_domain": "@std.uestc.edu.cn",
     "homepage": "http://lab.malab.cn/~wyz/",
-    "citedby": 394,
+    "citedby": 637,
     "publications": {
         "NEWRm1gAAAAJ:u-x6o8ySG0sC": {
             "container_type": "Publication",
@@ -29,26 +29,10 @@
             },
             "filled": false,
             "author_pub_id": "NEWRm1gAAAAJ:u-x6o8ySG0sC",
-            "num_citations": 291,
+            "num_citations": 430,
             "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2017628879934391385",
             "cites_id": [
                 "2017628879934391385"
-            ]
-        },
-        "NEWRm1gAAAAJ:d1gkVwhDpl0C": {
-            "container_type": "Publication",
-            "source": "AUTHOR_PUBLICATION_ENTRY",
-            "bib": {
-                "title": "Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning",
-                "pub_year": "2024",
-                "citation": "Frontiers of Computer Science 18 (2), 182903, 2024"
-            },
-            "filled": false,
-            "author_pub_id": "NEWRm1gAAAAJ:d1gkVwhDpl0C",
-            "num_citations": 64,
-            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15590100129495940358",
-            "cites_id": [
-                "15590100129495940358"
             ]
         },
         "NEWRm1gAAAAJ:j3f4tGmQtD8C": {
@@ -61,58 +45,74 @@
             },
             "filled": false,
             "author_pub_id": "NEWRm1gAAAAJ:j3f4tGmQtD8C",
-            "num_citations": 25,
+            "num_citations": 79,
             "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4844386886304127294",
             "cites_id": [
                 "4844386886304127294"
             ]
         },
-        "NEWRm1gAAAAJ:9yKSN-GCB0IC": {
+        "NEWRm1gAAAAJ:d1gkVwhDpl0C": {
             "container_type": "Publication",
             "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments",
+                "title": "Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning",
                 "pub_year": "2024",
-                "citation": "PLOS Computational Biology 20 (4), e1011988, 2024"
+                "citation": "Frontiers of Computer Science 18 (2), 182903, 2024"
             },
             "filled": false,
-            "author_pub_id": "NEWRm1gAAAAJ:9yKSN-GCB0IC",
-            "num_citations": 5,
-            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5455168442536649634",
+            "author_pub_id": "NEWRm1gAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 79,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15590100129495940358",
             "cites_id": [
-                "5455168442536649634"
+                "15590100129495940358"
             ]
         },
         "NEWRm1gAAAAJ:-f6ydRqryjwC": {
             "container_type": "Publication",
             "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "A survey on multi-view fusion for predicting links in biomedical bipartite networks: Methods and applications",
+                "title": "A survey on multi-view fusion for predicting links in biomedical bipartite networks: methods and applications",
                 "pub_year": "2025",
                 "citation": "Information Fusion 117, 102894, 2025"
             },
             "filled": false,
             "author_pub_id": "NEWRm1gAAAAJ:-f6ydRqryjwC",
-            "num_citations": 4,
+            "num_citations": 16,
             "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1736622252805307319",
             "cites_id": [
                 "1736622252805307319"
             ]
         },
-        "NEWRm1gAAAAJ:u5HHmVD_uO8C": {
+        "NEWRm1gAAAAJ:TFP_iSt0sucC": {
             "container_type": "Publication",
             "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "ET-MSF: a model stacking framework to identify electron transport proteins",
-                "pub_year": "2022",
-                "citation": "Frontiers in Bioscience-Landmark 27 (1), 12, 2022"
+                "title": "HAlign-G: rapid and low-memory multiple-genome aligner for large-scale closely related genomes",
+                "pub_year": "2025",
+                "citation": "Genome Biology 26 (1), 406, 2025"
             },
             "filled": false,
-            "author_pub_id": "NEWRm1gAAAAJ:u5HHmVD_uO8C",
-            "num_citations": 4,
-            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14518979519302368284",
+            "author_pub_id": "NEWRm1gAAAAJ:TFP_iSt0sucC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14129531130900530805",
             "cites_id": [
-                "14518979519302368284"
+                "14129531130900530805"
+            ]
+        },
+        "NEWRm1gAAAAJ:9yKSN-GCB0IC": {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TPMA: a two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments",
+                "pub_year": "2024",
+                "citation": "PLoS computational biology 20 (4), e1011988, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "NEWRm1gAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5455168442536649634",
+            "cites_id": [
+                "5455168442536649634"
             ]
         },
         "NEWRm1gAAAAJ:iH-uZ7U-co4C": {
@@ -125,10 +125,42 @@
             },
             "filled": false,
             "author_pub_id": "NEWRm1gAAAAJ:iH-uZ7U-co4C",
-            "num_citations": 1,
+            "num_citations": 6,
             "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=529846064214916612",
             "cites_id": [
                 "529846064214916612"
+            ]
+        },
+        "NEWRm1gAAAAJ:u5HHmVD_uO8C": {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ET-MSF: a model stacking framework to identify electron transport proteins",
+                "pub_year": "2022",
+                "citation": "Frontiers in Bioscience-Landmark 27 (1), 12, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NEWRm1gAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14518979519302368284",
+            "cites_id": [
+                "14518979519302368284"
+            ]
+        },
+        "NEWRm1gAAAAJ:isC4tDSrTZIC": {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "deMEM: a novel divide-and-conquer framework based on de Bruijn graph for scalable multiple sequence alignment",
+                "pub_year": "2026",
+                "citation": "GigaScience 15, giaf163, 2026"
+            },
+            "filled": false,
+            "author_pub_id": "NEWRm1gAAAAJ:isC4tDSrTZIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11269449560980109810",
+            "cites_id": [
+                "11269449560980109810"
             ]
         },
         "NEWRm1gAAAAJ:r0BpntZqJG4C": {
@@ -144,16 +176,16 @@
             "num_citations": 0
         }
     },
-    "citedby5y": 394,
-    "hindex": 4,
-    "hindex5y": 4,
-    "i10index": 3,
-    "i10index5y": 3,
+    "citedby5y": 636,
+    "hindex": 6,
+    "hindex5y": 6,
+    "i10index": 5,
+    "i10index5y": 5,
     "cites_per_year": {
-        "2022": 1,
-        "2023": 17,
-        "2024": 94,
-        "2025": 278
+        "2023": 13,
+        "2024": 98,
+        "2025": 289,
+        "2026": 235
     },
-    "updated": "2025-12-22 18:24:14.584828"
+    "updated": "2026-10-14 10:40:04.716979"
 }
