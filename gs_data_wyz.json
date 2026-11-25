@@ -17,7 +17,7 @@
     ],
     "email_domain": "@std.uestc.edu.cn",
     "homepage": "http://lab.malab.cn/~wyz/",
-    "citedby": 637,
+    "citedby": 662,
     "publications": {
         "NEWRm1gAAAAJ:u-x6o8ySG0sC": {
             "container_type": "Publication",
@@ -29,7 +29,7 @@
             },
             "filled": false,
             "author_pub_id": "NEWRm1gAAAAJ:u-x6o8ySG0sC",
-            "num_citations": 430,
+            "num_citations": 444,
             "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2017628879934391385",
             "cites_id": [
                 "2017628879934391385"
@@ -45,7 +45,7 @@
             },
             "filled": false,
             "author_pub_id": "NEWRm1gAAAAJ:j3f4tGmQtD8C",
-            "num_citations": 79,
+            "num_citations": 87,
             "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4844386886304127294",
             "cites_id": [
                 "4844386886304127294"
@@ -61,7 +61,7 @@
             },
             "filled": false,
             "author_pub_id": "NEWRm1gAAAAJ:d1gkVwhDpl0C",
-            "num_citations": 79,
+            "num_citations": 80,
             "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15590100129495940358",
             "cites_id": [
                 "15590100129495940358"
@@ -93,7 +93,7 @@
             },
             "filled": false,
             "author_pub_id": "NEWRm1gAAAAJ:TFP_iSt0sucC",
-            "num_citations": 11,
+            "num_citations": 12,
             "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14129531130900530805",
             "cites_id": [
                 "14129531130900530805"
@@ -147,6 +147,22 @@
                 "14518979519302368284"
             ]
         },
+        "NEWRm1gAAAAJ:BqipwSGYUEgC": {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A unified framework for potency-oriented AMP discovery via multi-modal learning and guided sequence synthesis",
+                "pub_year": "2026",
+                "citation": "PLOS Computational Biology 22 (9), e1014771, 2026"
+            },
+            "filled": false,
+            "author_pub_id": "NEWRm1gAAAAJ:BqipwSGYUEgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9037998652430025386",
+            "cites_id": [
+                "9037998652430025386"
+            ]
+        },
         "NEWRm1gAAAAJ:isC4tDSrTZIC": {
             "container_type": "Publication",
             "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -176,7 +192,7 @@
             "num_citations": 0
         }
     },
-    "citedby5y": 636,
+    "citedby5y": 661,
     "hindex": 6,
     "hindex5y": 6,
     "i10index": 5,
@@ -184,8 +200,8 @@
     "cites_per_year": {
         "2023": 13,
         "2024": 98,
-        "2025": 289,
-        "2026": 235
+        "2025": 291,
+        "2026": 257
     },
-    "updated": "2026-10-14 10:40:04.716979"
+    "updated": "2026-11-25 15:18:53.648484"
 }
